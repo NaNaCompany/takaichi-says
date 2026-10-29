@@ -1,0 +1,22 @@
+{
+  "slug": "takaichi-says",
+  "name": "Takaichi Says",
+  "wordmark": "TAKAICHI",
+  "subject": "Sanae Takaichi",
+  "handle": "takaichi_sanae",
+  "initials": "ST",
+  "color": "#6b7959",
+  "profile": "https://x.com/takaichi_sanae",
+  "origin": "https://nanalab.kr/takaichi-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

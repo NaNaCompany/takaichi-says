@@ -1,0 +1,222 @@
+{
+  "slug": "takaichi-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 383,
+  "first": "2026-05-22",
+  "last": "2026-10-28",
+  "exact_time": 383,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies",
+      "sha256": "6eb26cb8e864d1aea1ce8c0e9972f8fab6bcd859a0a9f3a588b13f6ad7115ab7",
+      "timeline_items": 20,
+      "accepted": 20,
+      "excluded": {}
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__-sLAAIAAAATMjExMjgzNzkyMjQ3OTMyNTYxMwgAAwAAAAIAAA",
+      "sha256": "93f6132975808260c0859881853f5f076aec3be7be5e724ed9e463a9e2ae5b17",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__9cLAAIAAAATMjExMDcxMjkzNTY2MDMyNzM4MAgAAwAAAAIAAA",
+      "sha256": "14c8cd64ce01ff819f176d0678d413e70b894d82f31c911183592fcb9c37c27e",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__8MLAAIAAAATMjEwNzM5NjM0MTA5ODAyOTQ1NQgAAwAAAAIAAA",
+      "sha256": "838e95f7475c9668d6668fd88063310cd9e0a18dc61d8a581e345f6b36da583c",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "quote-without-authored-content": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__68LAAIAAAATMjEwNTI0NzQ3NzE0NjQ2MDE4NAgAAwAAAAIAAA",
+      "sha256": "34fdf66d2240c81d9248d8278bde2adc16102c7d99847886b9ac4f5835907cde",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__5sLAAIAAAATMjEwMzc0MTc2ODI4MjA2MzE1MAgAAwAAAAIAAA",
+      "sha256": "a5ffe7b3748bf15469bf381e121522d722abcc9757e169e9af4de7eff546dc29",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__4cLAAIAAAATMjEwMDg4NjMxMDk5NTI0MzM4OQgAAwAAAAIAAA",
+      "sha256": "06a55840db1f87bef1fc5bcc13af0278269182323abff5a0854903952c708ddd",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__3MLAAIAAAATMjA5NzE0NTIxODY1NTIyMzk3NQgAAwAAAAIAAA",
+      "sha256": "b7feafbf4ed8d4b09493ef70fdb29057a26919b99b06bdde3297d20b5f1698e6",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__18LAAIAAAATMjA5NDY2MjU2MjM3MzkzOTQwNggAAwAAAAIAAA",
+      "sha256": "e08ffc8a7dfb761c6131dd8e50cf20205c4e116264167b0aa83a54eb5313c16e",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "quote-without-authored-content": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__0sLAAIAAAATMjA5MjI2MzI0Mzg2Mzc4OTgzNAgAAwAAAAIAAA",
+      "sha256": "f2c5dc07c4898a623e3606cf94f132ab92cdf6f0a342657785bf9d6d842f631a",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__zcLAAIAAAATMjA5MDAyNDY1NTE5MzI2ODY3MggAAwAAAAIAAA",
+      "sha256": "247276c20204f033fcad686c321dd68fd31b1fcfbc463181f5b0ff66e66df58c",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__yMLAAIAAAATMjA4ODEyOTAxMTUwNzcyMDI2MAgAAwAAAAIAAA",
+      "sha256": "628dfb3802c4b94788fe10d33a23c2b53ab22cb3eb0d81b0b2f9e9daae57adea",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__w8LAAIAAAATMjA4NjM3NDUyODMzOTYxMjE2MAgAAwAAAAIAAA",
+      "sha256": "7960769089355a0fa58242c8c08546589dbaa5951bca5caded66de2c487e5e62",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__vsLAAIAAAATMjA4MjY5ODc3ODk0ODMyMTc4OQgAAwAAAAIAAA",
+      "sha256": "f33efd9cfff79da787312aca5cbdc572f7abd5aa7c043bbe92269c3dfbb596b3",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "quote-without-authored-content": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__ugLAAIAAAATMjA3OTE5ODA2MzY3MjA5ODkxOAgAAwAAAAIAAA",
+      "sha256": "87d7b7dadc885af473173524e1aef3b0f7684f0decd84c9365ed326e2121e05d",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__tULAAIAAAATMjA3MzI2MzUxNTk1MjIwMTgyNwgAAwAAAAIAAA",
+      "sha256": "7055df55cea2547a24081e7dc71d9853204419f2298d16b9a5fcb55ada0d864e",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "quote-without-authored-content": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__sELAAIAAAATMjA3MDQ2MDk5MjgyNDQxMDMwNAgAAwAAAAIAAA",
+      "sha256": "0e7518cef1f314a4aaa4f0b0217ea523209e475f8544be238d8314a9ab6e06ea",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "quote-without-authored-content": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__q4LAAIAAAATMjA2Njg0ODgxNDEyMDc1NTYyMAgAAwAAAAIAAA",
+      "sha256": "eeda5a9c3e3c5fe01a6727c149927967417b1a7be953dcc80896151083ce7683",
+      "timeline_items": 19,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__pwLAAIAAAATMjA2NTAxMDU0NzAxMjMyNTg3NAgAAwAAAAIAAA",
+      "sha256": "d6294f9881446d7c3ddb43ad1a7866a7991fe200d3e77f5db09075b95ff46fa1",
+      "timeline_items": 18,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/takaichi_sanae/with_replies?cursor=DAAHCgABHVwYtAf__osLAAIAAAATMjA2MTcyOTIxMzg2MzEzMzI3NwgAAwAAAAIAAA",
+      "sha256": "a8346d51530e7a4e114c1a55119df9fac617f4d98a2cd66eb36ca1e3344acdc9",
+      "timeline_items": 20,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    }
+  ],
+  "excluded": {
+    "missing-author-or-permalink": 19,
+    "repost": 3,
+    "quote-without-authored-content": 6
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}

@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "local_mobile": {
+    "slug": "takaichi-says",
+    "clientWidth": 360,
+    "externalScripts": [],
+    "imageLoaded": true,
+    "innerWidth": 375,
+    "lang": "en",
+    "months": 6,
+    "more": "https://nanalab.kr/apps/",
+    "noReposts": true,
+    "noTranslations": true,
+    "scrollWidth": 360,
+    "title": "Takaichi Says"
+  },
+  "navigation": {
+    "slug": "takaichi-says",
+    "monthSample": 15,
+    "day": "2026-05-22",
+    "dayCount": 1,
+    "passed": true
+  },
+  "desktop_shared_template": {
+    "inner_width": 1280,
+    "client_width": 1265,
+    "scroll_width": 1265
+  },
+  "local_embed_fallback": true,
+  "browser_copy_toast_observed": true,
+  "os_clipboard_readback": false
+}
